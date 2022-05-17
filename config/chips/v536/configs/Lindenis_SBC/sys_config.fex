@@ -17,7 +17,7 @@ boot_led = port:PH15<1><default><default><0>
 
 [target]
 boot_clock   	= 912
-storage_type    = 2
+storage_type    = -1
 power_mode   = 0
 burn_key    = 0
 lind_test = 0
